@@ -1,0 +1,30 @@
+.container{
+    text-align: justify;
+    width:95%;
+    background:linear-gradient( black,rgb(41, 39, 39),rgb(95, 93, 92));
+    margin:auto;
+    color:bisque;
+    font-size: 20px;
+font-style: italic;   
+padding: 10px 50px; 
+
+}
+
+.head{
+    text-align: center;
+    background-color: bisque;
+    color:black;
+    
+    /* padding:80px ; */
+
+}
+.img{
+    width: 500px ;
+    margin:10px 100px;
+    float:right;
+    
+}
+.rule{
+    width: 315px;
+    
+}
